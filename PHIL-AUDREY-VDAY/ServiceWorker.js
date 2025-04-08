@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-V-Day-1.0";
 const contentToCache = [
     "Build/PHIL-AUDREY-VDAY.loader.js",
-    "Build/PHIL-AUDREY-VDAY.framework.js.br",
-    "Build/PHIL-AUDREY-VDAY.data.br",
-    "Build/PHIL-AUDREY-VDAY.wasm.br",
+    "Build/PHIL-AUDREY-VDAY.framework.js",
+    "Build/PHIL-AUDREY-VDAY.data",
+    "Build/PHIL-AUDREY-VDAY.wasm",
     "TemplateData/style.css"
 
 ];
