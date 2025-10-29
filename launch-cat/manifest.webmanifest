@@ -1,14 +1,14 @@
 {
-    "name": "V-Day",
-    "short_name": "V-Day",
+    "name": "OPEN ME",
+    "short_name": "OPEN ME",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#FFFFFF",
     "theme_color": "#fff",
-    "description": "",
+    "description": "An experience by LUFMISO",
     "icons": [{
-      "src": "TemplateData/icons/unity-logo-light.png",
-      "sizes": "144x144",
+      "src": "TemplateData/LUFMISO-logo.png",
+      "sizes": "128x128",
       "type": "image/png",
       "purpose": "any maskable"
     }]
