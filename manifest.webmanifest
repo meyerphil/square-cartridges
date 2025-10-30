@@ -7,8 +7,8 @@
     "theme_color": "#fff",
     "description": "Home Page of LUFMISO",
     "icons": [{
-      "src": "OGluf.png",
-      "sizes": "1280x640",
+      "src": "OGluf-square.png",
+      "sizes": "576-576",
       "type": "image/png",
       "purpose": "any maskable"
     }]
