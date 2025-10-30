@@ -1,0 +1,15 @@
+{
+    "name": "LUFMISO",
+    "short_name": "LUFMISO",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#FFFFFF",
+    "theme_color": "#fff",
+    "description": "Home Page of LUFMISO",
+    "icons": [{
+      "src": "OGluf.png",
+      "sizes": "1280x640",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
