@@ -1,7 +1,7 @@
 {
     "name": "LUFMISO",
     "short_name": "LUFMISO",
-    "start_url": "index.html",
+    "start_url": ".",
     "display": "fullscreen",
     "background_color": "#FFFFFF",
     "theme_color": "#fff",
